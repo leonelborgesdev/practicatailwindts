@@ -1,3 +1,4 @@
+import About from '@/Components/About';
 import Hero from '@/Components/Hero';
 import MobileNav from '@/Components/MobileNav';
 import Nav from '@/Components/Nav';
@@ -16,6 +17,9 @@ const HomePage = () => {
         <Nav openNav={openNav}/>
 
         <Hero/>
+        <div className='relative z-[30]'>
+          <About/>
+        </div>
       </div>
     </div>
   )
