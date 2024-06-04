@@ -18,7 +18,7 @@ const Skills = () => {
             skill1="html" 
             skill2="css" 
             skill3="javascript" 
-            leve1="w-[91%]" 
+            level1="w-[91%]" 
             level2="w-[88%]" 
             level3="w-[80%]"
             />
@@ -30,7 +30,7 @@ const Skills = () => {
             skill1="React Js" 
             skill2="Next Js" 
             skill3="TypeScript" 
-            leve1="w-[81%]" 
+            level1="w-[81%]" 
             level2="w-[78%]" 
             level3="w-[60%]"
             />
